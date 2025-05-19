@@ -18,8 +18,4 @@ The company Mondelēz International returned a job description for Controls Engi
 According to Indeed.com, Mondelēz International was founded in 2012.
 Annual revenue is $10B USD
 Company size is approximately 1001-5000
-The company’s portfolio includes:
-
-Oreo
-Cadbury
-Trident
+The company’s portfolio includes: Oreo; Cadbury; Trident
