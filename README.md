@@ -10,12 +10,3 @@ Understand iterative prompt engineering tailored to real-world scenarios.
 Compare accessible LLMs for practical tasks.
 Apply your field of study to an interview-relevant SWOT analysis.
 Develop skills in documenting and presenting work using GitHub.
-
-Instructions
-Step 1: Select a Company
-The search criterion Controls Engineer was entered into Indeed.com’s search engine. 
-The company Mondelēz International returned a job description for Controls Engineer.
-According to Indeed.com, Mondelēz International was founded in 2012.
-Annual revenue is $10B USD
-Company size is approximately 1001-5000
-The company’s portfolio includes: Oreo; Cadbury; Trident
